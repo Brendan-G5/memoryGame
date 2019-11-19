@@ -3,6 +3,10 @@ html{
   font-family: Arial, Helvetica, sans-serif;
 }
 
+h1{
+  color:black;
+}
+
 .playarea{
   display: grid;
   grid-template-columns: repeat(10,1fr);
@@ -16,6 +20,10 @@ html{
 }
 
 .card{
-  background-color: blue;
   border: 1px solid black;
+  text-align: center;
+  vertical-align: middle;
+}
+.hide{
+background-color: black;
 }
