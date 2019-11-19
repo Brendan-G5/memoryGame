@@ -1,0 +1,21 @@
+html{
+  width: 100%;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.playarea{
+  display: grid;
+  grid-template-columns: repeat(10,1fr);
+  grid-template-rows: repeat(3,1fr);
+  grid-gap: 10px;
+  border: 3px black solid;
+  height: 95%;
+  width:95%;
+  padding: 10px;
+  margin: auto;
+}
+
+.card{
+  background-color: blue;
+  border: 1px solid black;
+}
