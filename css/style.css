@@ -5,18 +5,24 @@ html{
 
 .score{
   width:100%;
-  height:200px;
+  height:50px;
+  text-align: center;
 }
 
 h2{
   color: black;
 }
-.player1{
-  text-align: left;
+.player{
+  text-align: center;
+  display: inline;
 }
-.player2{
-  text-align: right;
-  display: ;
+.player0{
+  background-color: blue;
+  color: black;
+}
+.player1{
+  background-color: red;
+  color: black;
 }
 
 .playarea{
