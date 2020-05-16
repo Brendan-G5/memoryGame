@@ -16,6 +16,8 @@ Whoever gets the most matches wins.
 
 - Add the ability to let the user add add there own photos (I added my own locally when i first made it, and made it look nicer.)
 
+- So much more
+
 ## When time permits
 
 - DO THE ABOVE THINGS
