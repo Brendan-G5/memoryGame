@@ -2,7 +2,7 @@
 
 One of my first JavaScript project. Here is a simple memory game played by two player who take turns clicking on numbers trying to get matches
 
-Whoever gets the most matches wins. 
+Whoever gets the most matches wins the game. 
 
 ## Improvments (writing this as a more experienced developer) 
 
